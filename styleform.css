@@ -1,0 +1,13 @@
+nav  li {
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+    margin-right: 100px;
+    margin-left: 150px;
+}
+nav li:hover{
+    background-color: beige;
+}
+fieldset label input {
+    display: block;
+}
